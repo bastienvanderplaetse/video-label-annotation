@@ -3,11 +3,11 @@ var currentVideo = -1;
 var languages = {
     0: "Other",
     1: "Nothing",
-    2: "French",
-    3: "English",
-    4: "Italian",
-    5: "Spanish",
-    6: "Russian"
+    2: "fr",
+    3: "en",
+    4: "it",
+    5: "es",
+    6: "ru"
 };
 
 var annotations = {};
