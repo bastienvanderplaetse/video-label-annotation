@@ -2,7 +2,7 @@
 
 This repository proposes a basic tool to annotate the label of videos. It is fully client-side and does not require any installation except a web browser (even without internet connection).
 
-# How to use
+## How to use
 
 Start by cloning this repository
 ```
