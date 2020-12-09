@@ -18,4 +18,4 @@ You will be informed when all the videos are annotated. A file named `annotation
 ## Authors
 * Bastien Vanderplaetse (bastien.vanderplaetse@umons.ac.be) - [GitHub](https://github.com/bastienvanderplaetse)
 
-![UMONS](./images/UMONS-EN-rvb.png =150x)![ISIA](./images/ISIA-logo.png =150x)![NUMEDIART](./images/numediart.png =150x)
+<img src="./images/UMONS-EN-rvb.png" width=150 align=left><img src="./images/ISIA-logo.png" width=150 align=left><img src="./images/numediart.png" width=150 align=left>
