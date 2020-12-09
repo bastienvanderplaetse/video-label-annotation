@@ -15,7 +15,8 @@ Next, open the `index.html` file (located into the root folder) with your web br
 
 You will be informed when all the videos are annotated. A file named `annotations.json` will be automatically downloaded through your web browser. This file contains a dictionary where the key is the name of the video file and the value is the label selected for this video.
 
-## Authors
-* Bastien Vanderplaetse (bastien.vanderplaetse@umons.ac.be) - [GitHub](https://github.com/bastienvanderplaetse)
+## Author
+
+Bastien Vanderplaetse (bastien.vanderplaetse@umons.ac.be) - [GitHub](https://github.com/bastienvanderplaetse)
 
 <img src="./images/UMONS-EN-rvb.png" width=150 align=left><img src="./images/ISIA-logo.png" width=150 align=left><img src="./images/numediart.png" width=150 align=left>
